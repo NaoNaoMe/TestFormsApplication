@@ -5,6 +5,7 @@ This is a test repo.
 
 ### CN2 Pin Descriptions:
 This connector is for your target board.
+
 | Pin | Name | Description                                       |
 | --- | ---- | ------------------------------------------------- |
 | 1   | VCC  | VCC-CN1 with a jumper (Short or Open)             |
