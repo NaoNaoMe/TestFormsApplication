@@ -19,7 +19,7 @@ namespace TestFormsApplication
 
 		private void button1_Click(object sender, EventArgs e)
 		{
-			textBox1.Text = "Hello world!!";
+			textBox1.Text = "Hello!";
 		}
 	}
 }
